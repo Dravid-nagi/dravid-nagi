@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://threadinary.com)
 
 <h1 align="center">Hi 👋, I'm Dravid Nagi</h1>
-<div align="center"  >
+<div>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ai+Master's+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Experienced+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Coder+" alt="Typing SVG" />
   </div>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
