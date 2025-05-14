@@ -4,7 +4,7 @@
 <div>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ai+Master's+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Experienced+Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Coder+" alt="Typing SVG" />
   </div>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1MWavaYHVs8aqZsfenuerEzHNNW78hROi/view?usp=sharing">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1MWavaYHVs8aqZsfenuerEzHNNW78hROi">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dravid-nagi&label=Profile%20views&color=0e75b6&style=flat" alt="dravid-nagi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nagi_dravid" target="blank"><img src="https://img.shields.io/twitter/follow/nagi_dravid?logo=twitter&style=for-the-badge" alt="nagi_dravid" /></a> </p>
@@ -42,6 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dravid-nagi&show_icons=true&locale=en" alt="dravid-nagi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dravid-nagi&" alt="dravid-nagi" /></p>
+
 
 <a href="https://www.buymeacoffee.com/dravidnagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
